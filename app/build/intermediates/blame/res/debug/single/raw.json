@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Dev\\Android_workspace\\SpaceInvaders\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mario_game_over.mp3",
+        "source": "C:\\Dev\\Android_workspace\\SpaceInvaders\\app\\src\\main\\res\\raw\\mario_game_over.mp3"
+    },
+    {
+        "merged": "C:\\Dev\\Android_workspace\\SpaceInvaders\\app\\build\\intermediates\\res\\merged\\debug\\raw\\space_invaders_soundtrack.mp3",
+        "source": "C:\\Dev\\Android_workspace\\SpaceInvaders\\app\\src\\main\\res\\raw\\space_invaders_soundtrack.mp3"
+    }
+]
